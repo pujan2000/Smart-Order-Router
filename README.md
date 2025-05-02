@@ -53,10 +53,6 @@ The allocator uses these risk parameters:
 
 These ranges were chosen to represent realistic and commonly encountered market scenarios. The lower bounds (0, 0.005) reflect a scenario with minimal execution penalties, allowing the allocator significant freedom to optimize purely for cost. Conversely, the upper bounds (0.01, 0.02) reflect more cautious scenarios where execution accuracy becomes increasingly important, representing more risk-averse trading environments.
 
-## Results Interpretation
-
-The optimal parameter set identified significantly reduces execution costs compared to baseline strategies. Output metrics include total cash spent, average fill price, and savings relative to each baseline in basis points.
-
 ## Recommendations for Further Improvement
 
 ### Queue-Position Slippage
