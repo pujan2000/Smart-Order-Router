@@ -1,4 +1,4 @@
-# Smart Order Router (SOR) Back-Test
+# Smart Order Router (Back-Test)
 
 ## High-Level Understanding
 
